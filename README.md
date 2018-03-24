@@ -3,8 +3,7 @@ This repository contains Stage 1 of Popular Movies, an android application done 
 
 # API Usage:
 
-Please add a movie database API key in ../main/java/com/example/shalu/popularmoviesapp/Utilities/NetworkUtils.java
-API key can be requested from themoviedb.org
+Please add a movie database API key
 
 # Description:
 
