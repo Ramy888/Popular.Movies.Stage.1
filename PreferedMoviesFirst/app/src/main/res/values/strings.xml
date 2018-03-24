@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PreferedMoviesFirst</string>
+    <string name="MOVIEDB_API_KEY" translatable="false">add API key</string>
+
+
+    <string name="movie_thumbnail">movie_thumbnail</string>
+
+    <string name="API_KEY_ATTR">api_key</string>
+    <string name="title_activity_information">InformationActivity</string>
+    <string name="detail_image" translatable="false">DetailActivity Image</string>
+    <string name="popularity" translatable="false">popularity.desc</string>
+    <string name="prefs_key">popularity</string>
+    <string name="sort_by">sort_by</string>
+    <string name="sort_preference">Sort Results</string>
+    <string name="sort" translatable="false">sort</string>
+    <string name="certification_country" translatable="false">certification_country</string>
+    <string name="country" translatable="false">US</string>
+    <string name="certification_lte" translatable="false">certification.lte</string>
+    <string name="G">G</string>
+    <string name="action_share">Share</string>
+    <string name="no_internet">"Network unavailable\nCheck connection and try again"</string>
+
+
+</resources>

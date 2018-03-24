@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.udacityexcercise.android.preferedmoviesfirst.MainActivity">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.udacityexcercise.android.preferedmoviesfirst.MovieFragmentActivity"
+        android:id="@+id/fragment_grid_view"
+        tools:layout="@layout/activity_movie_fragment" />
+</FrameLayout>
